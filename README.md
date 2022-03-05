@@ -1,7 +1,6 @@
 # Data Analyst
 
-<br>
-**Data Analyst Capstone on report identified trends in technology skills requirements on for an by a global IT solutions and business consulting services firm** <br>
+**Data Analyst Capstone on report identified trends in technology skills requirements on for an by a global IT solutions and business consulting services firm**
 
 ### Project Documentation
 1. Identified business problem, solution, and questions
