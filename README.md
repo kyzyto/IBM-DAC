@@ -36,9 +36,9 @@
    - Presented Project
 
 ### Auxillary and Context
-In or to get the IBM Data Analyst Professional Certificate I worked with a variety of concepts, resources, data sources, project scenarios, and data analysis tools thereby gaining practical experience with data manipulation and applying analytical techniques.
+In order to get the IBM Data Analyst Professional Certificate I worked with a variety of concepts, resources, data sources, project scenarios, and data analysis tools thereby gaining practical experience with data manipulation and applying analytical techniques.
 
-Gained a firm grasp on the technical skills required to effectively gather, wrangle, mine, and visualize data, as well as soft skills for working with stakeholders and storytelling with data to engage your audience.
+Gained experience and a firm grasp on the **technical skills** required to effectively *gather, wrangle, mine, and visualize data*, as well as **soft skills** for *working with stakeholders* and *storytelling with data to engage the audience*.
 
 Technical Skills include:
 - Spreadsheet(i.e MS Excel)
