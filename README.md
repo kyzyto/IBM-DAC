@@ -5,7 +5,7 @@ IBM Data Analyst Capstone
 ### Project Documentation
 1. Identified business problem, solution, and questions
      - First task is to collect the top programming skills that are most in demand from various sources including:
-               - *Job postings
+           - *Job postings
                - Training portals
                - Surveys*
      - Next task after collecting enough data, you will begin analyzing the data and identify insights and trends that may include:
