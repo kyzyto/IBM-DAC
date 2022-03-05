@@ -1,5 +1,5 @@
 # Data Analyst
-IBM Data Analyst Capstone
+
 <br>
 **Data Analyst Capstone on report identified trends in technology skills requirements on for an by a global IT solutions and business consulting services firm** <br>
 
@@ -37,7 +37,7 @@ IBM Data Analyst Capstone
    - Presented Project
 
 ### Auxillary and Context
-I worked with a variety of data sources, project scenarios, and data analysis tools their by gaining practical experience with data manipulation and applying analytical techniques.
+In or to get the IBM Data Analyst Professional Certificate I worked with a variety of concepts, resources, data sources, project scenarios, and data analysis tools thereby gaining practical experience with data manipulation and applying analytical techniques.
 
 Gained a firm grasp on the technical skills required to effectively gather, wrangle, mine, and visualize data, as well as soft skills for working with stakeholders and storytelling with data to engage your audience.
 
