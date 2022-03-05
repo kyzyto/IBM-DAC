@@ -4,7 +4,7 @@ IBM Data Analyst Capstone
 **Data Analyst Capstone on report identified trends in technology skills requirements on for an by a global IT solutions and business consulting services firm** <br>
 ### Project Documentation
 1. Identified business problem, solution, and questions
-      - First task is to collect the top programming skills that are most in demand from various sources including:*
+     - First task is to collect the top programming skills that are most in demand from various sources including:*
 •	Job postings
 •	Training portals
 •	Surveys*
